@@ -204,7 +204,7 @@ C:\xampp\htdocs\
 The final location should be:
 
 ```text
-C:\xampp\htdocs\Online-Shopping-Application
+C:\xampp\htdocs\Shopping
 ```
 
 ---
@@ -292,7 +292,7 @@ If your MySQL username, password, host, or database name is different, update `c
 After starting Apache and MySQL, open:
 
 ```text
-http://localhost/Online-Shopping-Application/
+http://localhost/Shopping/
 ```
 
 The home page will display the available products.
