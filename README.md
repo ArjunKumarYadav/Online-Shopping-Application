@@ -410,7 +410,8 @@ Example:
 
 ### Home Page
 
-![Home Page](image/screenshots/home.png)
+<img width="1896" height="897" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/6fcba5dc-1478-4116-b89c-5881a5fdd6ee" />
+
 
 ### Products
 
