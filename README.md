@@ -397,39 +397,6 @@ The admin can manage:
 
 AJAX is used for dynamic subcategory-related functionality.
 
----
-
-# 📸 Screenshots
-
-Add screenshots of your application here.
-
-Example:
-
-```markdown
-## 📸 Screenshots
-
-### Home Page
-
-<img width="1896" height="897" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/6fcba5dc-1478-4116-b89c-5881a5fdd6ee" />
-
-
-### Products
-
-![Products](image/screenshots/products.png)
-
-### Shopping Cart
-
-![Shopping Cart](image/screenshots/cart.png)
-
-### Admin Dashboard
-
-![Admin Dashboard](image/screenshots/admin-dashboard.png)
-```
-
-> Create a `screenshots` folder and add your actual screenshots before using these image paths.
-
----
-
 # 🎯 What I Learned From This Project
 
 Through this project, I practiced:
